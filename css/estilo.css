@@ -1,0 +1,67 @@
+#icon{
+    width: 45px;
+}
+
+#modo{
+    width: 35px;
+    height: 35px;
+}
+
+#piePagina{
+    font-size: 11px;
+    line-height: 1.7em;
+}
+
+#pedidoya{
+    width: 200px;
+}
+
+#imgPres{
+    margin-top: 15px;
+    margin-bottom: 7px;
+}
+
+form{
+    padding: 25px 25px 25px 25px ;
+}
+
+h1{
+    padding: 35px 0px 0px 0px ;
+}
+
+h3{
+    font-size: 160%;
+    padding: 35px 15px 15px 0px ;
+}
+
+h4{
+    font-size: 140%;
+    padding: 35px 15px 15px 0px ;
+}
+
+h5{
+    font-size: 140%;
+    color: #339900;
+    padding: 15px 0px 15px 0px ;
+}
+
+h6{
+    padding: 0px 0px 0px 0px ;
+}
+
+
+body {
+    background-color: white;
+    color: black;
+  }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+.ligth-mode {
+    background-color: white;
+    color: black;
+  }
+
